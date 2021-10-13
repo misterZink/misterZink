@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Robin Heidari
 #### I am a Swedish based Software Developer
 
-- 🔭 I’m currently working on my portfolio website 
+- 🔭 I am currently working on my portfolio website 
 
 <hr>
 
