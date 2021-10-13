@@ -1,6 +1,5 @@
 ### Hi there 👋, Robin is my name
-#### I am a software developer
-I am from Sweden
+#### I am a software developer from Sweden
 
 Skills: JAVA / SPRING / MYSQL / REACT / JS / HTML / CSS / ANDROID
 
