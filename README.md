@@ -17,8 +17,6 @@ Skills: JAVA / SPRING / MYSQL / REACT / JS / HTML / CSS / ANDROID
 
 <br>
 <br>
-<br>
-<br>
 <hr>
 
 - 🔭 I’m currently working on my portfolio website 
