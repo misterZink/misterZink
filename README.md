@@ -1,4 +1,4 @@
-### Hi there 👋, Robin is my name
+### Hi there 👋, my name is Robin Heidari
 #### I am a software developer from Sweden
 
 Skills: JAVA / SPRING / MYSQL / REACT / JS / HTML / CSS / ANDROID
