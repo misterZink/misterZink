@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Robin Heidari
 #### I am a Swedish based Software Developer
 
-- 🔭 I am currently working on my portfolio website 
-
 <hr>
+
+- 🔭 I am currently working on my portfolio website 
 
 ### Skills: 
 JAVA / SPRING / MYSQL / REACT / JS / HTML / CSS / ANDROID
