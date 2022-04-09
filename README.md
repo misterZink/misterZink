@@ -5,7 +5,7 @@
 - 🔭 I am currently working on my portfolio website 
 
 ### Skills: 
-JAVA / SPRING / MYSQL / REACT / JS / HTML / CSS / ANDROID
+JAVA / REACT / NODEJS / SPRING / MYSQL / JAVASCRIPT / REST / NEXTJS / DOCKER / MICROSOFT AZURE / AMAZON AWS / EMOTION / TDD / SCRUM / KANBAN / KOTLIN / HTML / CSS / ANDROID / REDUX / MONGODB / 
 
 <hr>
 
