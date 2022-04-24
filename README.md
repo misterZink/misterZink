@@ -2,15 +2,17 @@
   [<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github'>](https://github.com/misterZink)[<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/robin-heidari/)[<img src='https://img.shields.io/badge/-RobinHeidari.com-FB542B?style=flat-square&logo=brave&logoColor=white' alt='website'>](https://robinheidari.com) 
 
 ```javascript
-name: "Robin Heidari"
-locatedIn: "Malmö, Sweden"
-job: "Software Developer"
-education: "Java Developer - EC Utbildning Vocational university" 
-company: "Softhouse"
+{
+  name: "Robin Heidari"
+  locatedIn: "Malmö, Sweden"
+  job: "Software Developer"
+  education: "Java Developer - EC Utbildning Vocational university" 
+  company: "Softhouse"
 
-interests: ["Crypto", "Football", "Cars", "Tech", "Programming", "Family"]
-currentlyLearning: ["Azure Developer Certification - AZ-204"]
-currentlyWorkingOn: "Personal Portfolio website"
+  interests: ["Crypto", "Football", "Cars", "Tech", "Programming", "Family"]
+  currentlyLearning: ["Azure Developer Certification - AZ-204"]
+  currentlyWorkingOn: "Personal Portfolio website"
+}
 ```
 
 ### Skills & tech: 
