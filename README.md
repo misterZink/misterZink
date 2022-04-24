@@ -8,7 +8,7 @@
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" />
 
 </p>
 JAVA / NODEJS / SPRING / MYSQL / JAVASCRIPT / REST / NEXTJS / DOCKER / MICROSOFT AZURE / AMAZON AWS / EMOTION / TDD / SCRUM / KANBAN / KOTLIN / HTML / CSS / ANDROID / REDUX / MONGODB / 
