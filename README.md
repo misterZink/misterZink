@@ -16,7 +16,10 @@
 }
 ```
 <div align="center">
-## Skills & tech: 
+  
+  ## Skills & tech: 
+
+</div>
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
