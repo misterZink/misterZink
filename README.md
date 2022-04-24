@@ -15,6 +15,7 @@
 
 }
 ```
+<hr>
 
 ### Skills & tech: 
 <p>
