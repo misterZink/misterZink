@@ -6,7 +6,7 @@
 
 ### Skills: 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=react&logoColor=white" />
 
 JAVA / NODEJS / SPRING / MYSQL / JAVASCRIPT / REST / NEXTJS / DOCKER / MICROSOFT AZURE / AMAZON AWS / EMOTION / TDD / SCRUM / KANBAN / KOTLIN / HTML / CSS / ANDROID / REDUX / MONGODB / 
 
