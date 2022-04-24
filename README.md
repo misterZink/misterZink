@@ -5,7 +5,7 @@
 
 </div>
   
-```javascript
+```js
 {
   name: "Robin Heidari"
   locatedIn: "Malmö, Sweden"
