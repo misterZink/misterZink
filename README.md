@@ -3,7 +3,7 @@
   [<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github'>](https://github.com/misterZink)
   [<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/robin-heidari/)
   [<img src='https://img.shields.io/badge/-RobinHeidari.com-FB542B?style=flat-square&logo=brave&logoColor=white' alt='website'>](https://robinheidari.com)  
-</p
+</p>
 
 #### I am a Swedish based Software Developer
 
