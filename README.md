@@ -16,5 +16,5 @@ JAVA / REACT / NODEJS / SPRING / MYSQL / JAVASCRIPT / REST / NEXTJS / DOCKER / M
 
 
 ### Github stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=misterZink&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=misterZink&show_icons=true&theme=gotham)  
 
