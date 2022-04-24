@@ -78,7 +78,6 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-  And more...
 </p>
 
 <div align="center">
