@@ -6,12 +6,13 @@
   name: "Robin Heidari"
   locatedIn: "Malmö, Sweden"
   job: "Software Developer"
-  education: "Java Developer - EC Utbildning Vocational university" 
   company: "Softhouse"
+  education: "Java Developer - EC Utbildning Vocational university" 
 
-  interests: [ "Crypto", "Football", "Cars", "Tech", "Programming", "Family" ]
-  currentlyLearning: [ "Azure Developer Certification - AZ-204" ]
   currentlyWorkingOn: "Personal Portfolio website"
+  currentlyLearning: "Azure Developer Certification - AZ-204"
+  interests: [ "Crypto", "Football", "Cars", "Tech", "Programming", "Family" ]
+
 }
 ```
 
