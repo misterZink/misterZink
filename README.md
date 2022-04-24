@@ -3,6 +3,7 @@
   # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   [<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github'>](https://github.com/misterZink)[<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/robin-heidari/)[<img src='https://img.shields.io/badge/-RobinHeidari.com-FB542B?style=flat-square&logo=brave&logoColor=white' alt='website'>](https://robinheidari.com) 
 
+</div>
   
 ```javascript
 {
@@ -18,8 +19,12 @@
 
 }
 ```
+
+<div align="center">
   
-## Skills & tech: 
+  ## Skills & tech: 
+  
+</div>
 
   <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -76,7 +81,8 @@
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
 </p>
 
-
+<div align="center">
+  
 ### Github stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misterZink&show_icons=true&theme=github_dark)  
   
