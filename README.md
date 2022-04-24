@@ -18,6 +18,8 @@
 ### Skills & tech: 
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img alt="Adobe Premiere" src="https://img.shields.io/badge/-Adobe Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android Development-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
@@ -52,9 +54,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Premiere" src="https://img.shields.io/badge/-Adobe Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
