@@ -16,7 +16,6 @@
   currentlyWorkingOn: "Personal Portfolio website"
   currentlyLearning: "Azure Developer Certification - AZ-204"
   interests: [ "Cars", "Crypto", "Family", "Football", "Programming", "Tech" ]
-
 }
 ```
 
