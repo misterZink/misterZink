@@ -82,7 +82,7 @@
 
 <div align="center">
   
-### Github stats:
+## Github stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misterZink&show_icons=true&theme=github_dark)  
   
 </div>
