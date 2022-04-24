@@ -5,7 +5,8 @@
 - 🔭 I am currently working on my portfolio website 
 
 ### Skills: 
-JAVA / REACT / NODEJS / SPRING / MYSQL / JAVASCRIPT / REST / NEXTJS / DOCKER / MICROSOFT AZURE / AMAZON AWS / EMOTION / TDD / SCRUM / KANBAN / KOTLIN / HTML / CSS / ANDROID / REDUX / MONGODB / 
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+JAVA / NODEJS / SPRING / MYSQL / JAVASCRIPT / REST / NEXTJS / DOCKER / MICROSOFT AZURE / AMAZON AWS / EMOTION / TDD / SCRUM / KANBAN / KOTLIN / HTML / CSS / ANDROID / REDUX / MONGODB / 
 
 <hr>
 
