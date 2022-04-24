@@ -15,7 +15,7 @@
 
 }
 ```
-
+<div align="center">
 ## Skills & tech: 
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
