@@ -9,8 +9,8 @@
   education: "Java Developer - EC Utbildning Vocational university" 
   company: "Softhouse"
 
-  interests: ["Crypto", "Football", "Cars", "Tech", "Programming", "Family"]
-  currentlyLearning: ["Azure Developer Certification - AZ-204"]
+  interests: [ "Crypto", "Football", "Cars", "Tech", "Programming", "Family" ]
+  currentlyLearning: [ "Azure Developer Certification - AZ-204" ]
   currentlyWorkingOn: "Personal Portfolio website"
 }
 ```
