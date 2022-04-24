@@ -1,4 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Robin Heidari
+[<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github'>](https://github.com/misterZink)  
+[<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/robin-heidari/)  
+[<img src='https://img.shields.io/badge/-RobinHeidari.com-FB542B?style=flat-square&logo=brave&logoColor=white' alt='website'](https://robinheidari.com)  
+
 #### I am a Swedish based Software Developer
 
 
@@ -74,11 +78,6 @@
 </p>
 
 <hr>
-
-
-
-### Connect with me:
-[<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/misterZink)  [<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-heidari/)  [<img src='https://img.shields.io/badge/-RobinHeidari.com-FB542B?style=flat-square&logo=brave&logoColor=white' alt='website' height='40'>](https://robinheidari.com)  
 
 
 ### Github stats:
