@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  ## Skills & tech: 
+  ## Some of the skills and tech i use: 
   
 </div>
 
