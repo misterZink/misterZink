@@ -78,7 +78,7 @@
 
 
 ### Connect with me:
-[<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/misterZink)  [<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-heidari/)  [<img src='https://cdn-icons-png.flaticon.com/512/841/841364.png' alt='website' height='40'>](https://robinheidari.com)  
+[<img src='https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/misterZink)  [<img src='https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-heidari/)  [<img src='https://img.shields.io/badge/-robinheidari.com-FB542B?style=flat-square&logo=brave&logoColor=white' alt='website' height='40'>](https://robinheidari.com)  
 
 
 ### Github stats:
