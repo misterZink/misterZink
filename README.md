@@ -10,7 +10,7 @@
   name: "Robin Heidari"
   locatedIn: "Malmö, Sweden"
   job: "Software Developer"
-  company: "Softhouse"
+  company: "Telavox"
   education: "Java Developer - EC Utbildning Vocational university" 
 
   currentlyWorkingOn: "Personal Portfolio website"
