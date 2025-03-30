@@ -9,12 +9,12 @@
 {
   name: "Robin Heidari"
   locatedIn: "Malmö, Sweden"
-  job: "Software Developer"
+  job: "Fullstack Developer"
   company: "Telavox"
   education: "Java Developer - EC Utbildning Vocational university" 
 
   currentlyWorkingOn: "Personal Portfolio website"
-  currentlyLearning: "Azure Developer Certification - AZ-204"
+  currentlyLearning: "AWS Certified Developer - Associate"
   interests: [ "Cars", "Crypto", "Family", "Football", "Programming", "Tech" ]
 }
 ```
