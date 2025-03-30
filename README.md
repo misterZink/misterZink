@@ -27,8 +27,6 @@
 
   <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="Adobe Premiere" src="https://img.shields.io/badge/-Adobe Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android Development-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
